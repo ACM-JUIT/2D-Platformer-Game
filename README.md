@@ -12,4 +12,4 @@ The objective is to create multiple scenes with unique *level designing*(includi
 
 ## Additional Features
 
-Moreover, the team can add interactable game objects such as a key (which is to be collected to open the exit door), collectibles such as coins, score, animations, lighting systems, post processing, etc. to further enhance the gameplay and visuals.
+Moreover, some interactable game objects such as a key (which is to be collected to open the exit door), collectibles such as coins, score, animations, lighting systems, post processing, etc. can be added to further enhance the gameplay and visuals.
