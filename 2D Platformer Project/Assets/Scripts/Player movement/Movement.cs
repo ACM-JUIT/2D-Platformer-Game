@@ -25,7 +25,7 @@ public class Movement : MonoBehaviour
     
     [SerializeField]                         // This means that the playerSpeed variable would be readable but not changable (since it's not public) in the inspector panel
 
-    float playerSpeed = 40;                                         // The player's speed
+    float playerSpeed = 40f;                                         // The player's speed
 
     bool jump = false;
    
@@ -46,4 +46,5 @@ public class Movement : MonoBehaviour
         controller.Move(Xmove*Time.fixedDeltaTime, false, jump);        // Calling Move() function
         jump = false;                                                   //Setting jump to false so that it could be true again in the Update() method
     }
+    
 }
