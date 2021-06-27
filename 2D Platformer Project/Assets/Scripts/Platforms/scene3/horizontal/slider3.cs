@@ -5,14 +5,14 @@ using UnityEngine;
 public class slider3 : MonoBehaviour
 {
 
-    float movespeed = 1.6f;
+    float movespeed = 2.75f;
     bool moveRight = true;
 
     private void Update()
     {
         if (transform.position.x > 8)
             moveRight = false;
-        if (transform.position.x < -5)
+        if (transform.position.x < -3)
             moveRight = true;
 
         if (moveRight)

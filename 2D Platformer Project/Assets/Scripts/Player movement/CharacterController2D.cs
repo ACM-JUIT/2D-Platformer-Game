@@ -5,6 +5,7 @@ public class CharacterController2D : MonoBehaviour
 {
 
 	public GameObject player;
+	public GameManager manager;
 
 	[SerializeField] private float m_JumpForce = 500f;							// Amount of force added when the player jumps.
 	[Range(0, 1)] [SerializeField] private float m_CrouchSpeed = .36f;			// Amount of maxSpeed applied to crouching movement. 1 = 100%
@@ -154,6 +155,10 @@ public class CharacterController2D : MonoBehaviour
 		{
 			this.transform.parent = collision.transform;
 
+		}
+		if (collision.gameObject.tag == "next")
+		{
+			manager.NextLevel();
 		}
 
 	}
