@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class SlidingScene2 : MonoBehaviour
 {
-    float movespeed = 2f;
+    float movespeed = 1.5f;
     bool moveRight = true;
 
     private void Update()
     {
-        if (transform.position.x > 7.3)
+        if (transform.position.x > -4.5)
             moveRight = false;
         if (transform.position.x < -7)
             moveRight = true;

@@ -5,6 +5,7 @@ using UnityEngine;
 public class Endgame : MonoBehaviour
 {
     public GameObject player;
+    public GameManager manager;
     void FixedUpdate()
     {
         if (player.transform.position.y <= -5.6)
@@ -16,7 +17,7 @@ public class Endgame : MonoBehaviour
     {
         if(collision.gameObject.tag == "Obstacle")
         {
-            Debug.Log("game over");
+            manager.Restart();
         }
     }
 }
