@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 85301559}
   - component: {fileID: 85301560}
   - component: {fileID: 85301561}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -243,7 +243,7 @@ GameObject:
   - component: {fileID: 108257720}
   - component: {fileID: 108257721}
   - component: {fileID: 108257722}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -350,7 +350,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 179683936}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: End_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -383,7 +383,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 191501054}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Game Objects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -423,7 +423,7 @@ GameObject:
   - component: {fileID: 207206500}
   - component: {fileID: 207206499}
   - component: {fileID: 207206498}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: sliding_plat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -544,7 +544,7 @@ GameObject:
   - component: {fileID: 216828234}
   - component: {fileID: 216828235}
   - component: {fileID: 216828236}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -652,7 +652,7 @@ GameObject:
   m_Component:
   - component: {fileID: 217524221}
   - component: {fileID: 217524222}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -735,7 +735,7 @@ GameObject:
   - component: {fileID: 280607450}
   - component: {fileID: 280607451}
   - component: {fileID: 280607452}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -844,7 +844,7 @@ GameObject:
   - component: {fileID: 307900195}
   - component: {fileID: 307900196}
   - component: {fileID: 307900197}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -953,7 +953,7 @@ GameObject:
   - component: {fileID: 331199828}
   - component: {fileID: 331199829}
   - component: {fileID: 331199830}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1062,7 +1062,7 @@ GameObject:
   - component: {fileID: 434457283}
   - component: {fileID: 434457284}
   - component: {fileID: 434457285}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1171,7 +1171,7 @@ GameObject:
   - component: {fileID: 469474919}
   - component: {fileID: 469474920}
   - component: {fileID: 469474921}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_deco_woodenThorns_1
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
@@ -1299,7 +1299,7 @@ GameObject:
   - component: {fileID: 486868546}
   - component: {fileID: 486868547}
   - component: {fileID: 486868548}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1408,7 +1408,7 @@ GameObject:
   - component: {fileID: 578398416}
   - component: {fileID: 578398417}
   - component: {fileID: 578398418}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1515,7 +1515,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 614669160}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: 'Obstacle '
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
@@ -1548,7 +1548,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 621329586}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Start
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1588,7 +1588,7 @@ GameObject:
   - component: {fileID: 637244302}
   - component: {fileID: 637244303}
   - component: {fileID: 637244304}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1697,7 +1697,7 @@ GameObject:
   - component: {fileID: 696705524}
   - component: {fileID: 696705525}
   - component: {fileID: 696705526}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1795,51 +1795,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!1 &726400126
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 726400127}
-  - component: {fileID: 726400128}
-  m_Layer: 3
-  m_Name: Ground check
-  m_TagString: Untagged
-  m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &726400127
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 726400126}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.71, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1213545753}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &726400128
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 726400126}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e7322eb2f7c0fd4e915d6495ecc296c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 1239552460}
-  offset_y: -0.7
 --- !u!1 &750831304
 GameObject:
   m_ObjectHideFlags: 0
@@ -1851,7 +1806,7 @@ GameObject:
   - component: {fileID: 750831305}
   - component: {fileID: 750831306}
   - component: {fileID: 750831307}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1958,7 +1913,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 853269687}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1993,7 +1948,7 @@ GameObject:
   - component: {fileID: 901211843}
   - component: {fileID: 901211844}
   - component: {fileID: 901211845}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2102,7 +2057,7 @@ GameObject:
   - component: {fileID: 904177309}
   - component: {fileID: 904177310}
   - component: {fileID: 904177311}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2211,7 +2166,7 @@ GameObject:
   - component: {fileID: 944129582}
   - component: {fileID: 944129584}
   - component: {fileID: 944129583}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_deco_woodenThorns_1 (2)
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
@@ -2453,7 +2408,7 @@ GameObject:
   - component: {fileID: 1213256854}
   - component: {fileID: 1213256855}
   - component: {fileID: 1213256856}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2551,221 +2506,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!1 &1213545752
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1213545753}
-  m_Layer: 3
-  m_Name: Player
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1213545753
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1213545752}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.38, y: 1.63, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 0.5}
-  m_Children:
-  - {fileID: 726400127}
-  - {fileID: 1718366987}
-  - {fileID: 1239552461}
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1239552460
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1239552461}
-  - component: {fileID: 1239552466}
-  - component: {fileID: 1239552465}
-  - component: {fileID: 1239552464}
-  - component: {fileID: 1239552463}
-  - component: {fileID: 1239552462}
-  - component: {fileID: 1239552467}
-  m_Layer: 3
-  m_Name: Circle
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
---- !u!4 &1239552461
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239552460}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.56, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1213545753}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &1239552462
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239552460}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.49999997
---- !u!50 &1239552463
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239552460}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 6200000, guid: 6bde8aa4a341d5a47a53c222069d1923, type: 2}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 1
-  m_Constraints: 4
---- !u!114 &1239552464
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239552460}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: df733cc25a15f7c48bee6ff5b98015c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  controller: {fileID: 1239552465}
-  playerSpeed: 20
---- !u!114 &1239552465
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239552460}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bef587dfab8d3d4499b25f4fe8e15d37, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 1213545752}
-  manager: {fileID: 1340348932}
-  m_JumpForce: 250
-  m_CrouchSpeed: 0.36
-  m_MovementSmoothing: 0.05
-  m_AirControl: 0
-  m_WhatIsGround:
-    serializedVersion: 2
-    m_Bits: 167
-  m_GroundCheck: {fileID: 726400127}
-  m_CeilingCheck: {fileID: 1718366987}
-  m_CrouchDisableCollider: {fileID: 0}
-  OnLandEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  OnCrouchEvent:
-    m_PersistentCalls:
-      m_Calls: []
---- !u!212 &1239552466
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239552460}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: 4adeaf2d2b1c7417e89f026626d8264f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!114 &1239552467
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239552460}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9973bc38538c2514283709817df8573c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 1239552460}
-  manager: {fileID: 1340348932}
 --- !u!1 &1247661620
 GameObject:
   m_ObjectHideFlags: 0
@@ -2776,7 +2516,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1247661621}
   - component: {fileID: 1247661622}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_deco_signs_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2859,7 +2599,7 @@ GameObject:
   - component: {fileID: 1268697009}
   - component: {fileID: 1268697010}
   - component: {fileID: 1268697011}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2968,7 +2708,7 @@ GameObject:
   - component: {fileID: 1298981188}
   - component: {fileID: 1298981189}
   - component: {fileID: 1298981190}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3203,7 +2943,7 @@ GameObject:
   - component: {fileID: 1385809022}
   - component: {fileID: 1385809023}
   - component: {fileID: 1385809024}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3312,7 +3052,7 @@ GameObject:
   - component: {fileID: 1391463639}
   - component: {fileID: 1391463640}
   - component: {fileID: 1391463641}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3421,7 +3161,7 @@ GameObject:
   - component: {fileID: 1392475878}
   - component: {fileID: 1392475879}
   - component: {fileID: 1392475880}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3528,7 +3268,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1394931141}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3572,7 +3312,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1410284462}
   - component: {fileID: 1410284463}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_deco_signs_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3655,7 +3395,7 @@ GameObject:
   - component: {fileID: 1423779590}
   - component: {fileID: 1423779592}
   - component: {fileID: 1423779591}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_deco_woodenThorns_1 (1)
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
@@ -3892,7 +3632,7 @@ GameObject:
   - component: {fileID: 1618738607}
   - component: {fileID: 1618738608}
   - component: {fileID: 1618738609}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4022,51 +3762,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1718366986
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1718366987}
-  - component: {fileID: 1718366988}
-  m_Layer: 3
-  m_Name: Ceiling check
-  m_TagString: Untagged
-  m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1718366987
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1718366986}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.70999974, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1213545753}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1718366988
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1718366986}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 18324bbe77a93864e856576b8d32eb23, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 1239552460}
-  offset_y: 0.7
 --- !u!1 &1725207440
 GameObject:
   m_ObjectHideFlags: 0
@@ -4078,7 +3773,7 @@ GameObject:
   - component: {fileID: 1725207441}
   - component: {fileID: 1725207442}
   - component: {fileID: 1725207443}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4187,7 +3882,7 @@ GameObject:
   - component: {fileID: 1865294603}
   - component: {fileID: 1865294604}
   - component: {fileID: 1865294605}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4296,7 +3991,7 @@ GameObject:
   - component: {fileID: 1884505261}
   - component: {fileID: 1884505262}
   - component: {fileID: 1884505263}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4404,7 +4099,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1900126946}
   - component: {fileID: 1900126947}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4594,7 +4289,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1941449062}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Boards
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4628,7 +4323,7 @@ GameObject:
   - component: {fileID: 2079054883}
   - component: {fileID: 2079054884}
   - component: {fileID: 2079054885}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Forest_terrain_blue_128px_3 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4808,3 +4503,68 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &6791641560550245753
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400288, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561755400289, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791641561777214632, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: manager
+      value: 
+      objectReference: {fileID: 1340348932}
+    - target: {fileID: 6791641561777214634, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: manager
+      value: 
+      objectReference: {fileID: 1340348932}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}

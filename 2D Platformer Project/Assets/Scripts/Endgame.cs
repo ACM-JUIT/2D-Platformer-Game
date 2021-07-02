@@ -10,7 +10,7 @@ public class Endgame : MonoBehaviour
     {
         if (player.transform.position.y <= -5.6)
         {
-            Debug.Log("game over");
+            manager.Restart();
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)

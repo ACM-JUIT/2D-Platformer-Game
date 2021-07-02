@@ -15,7 +15,7 @@ public class slider1 : MonoBehaviour
             moveRight = true;
 
         if (moveRight)
-            transform.position = new Vector2(transform.position.x + movespeed * Time.deltaTime, -1.8f); //-2 is transform.position.y
+            transform.position = new Vector2(transform.position.x + movespeed * Time.deltaTime, -1.8f); 
 
         else
             transform.position = new Vector2(transform.position.x - movespeed * Time.deltaTime, -1.8f);
