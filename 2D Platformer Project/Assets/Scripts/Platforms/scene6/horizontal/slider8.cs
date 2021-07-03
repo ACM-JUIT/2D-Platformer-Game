@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class slider8 : MonoBehaviour
 {
-    float movespeed = 2f;
+    float movespeed = 3f;
     bool moveRight = true;
 
     private void Update()

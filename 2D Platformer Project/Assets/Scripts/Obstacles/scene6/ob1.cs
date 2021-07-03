@@ -11,7 +11,7 @@ public class ob1 : MonoBehaviour
     {
         if (transform.position.x > -7)
             moveRight = false;
-        if (transform.position.x < -9.5)
+        if (transform.position.x < -10.5)
             moveRight = true;
 
         if (moveRight)
