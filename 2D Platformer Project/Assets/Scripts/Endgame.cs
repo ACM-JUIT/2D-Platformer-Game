@@ -19,5 +19,9 @@ public class Endgame : MonoBehaviour
         {
             manager.Restart();
         }
+        if (collision.gameObject.tag == "Enemy")
+        {
+            manager.Restart();
+        }
     }
 }
