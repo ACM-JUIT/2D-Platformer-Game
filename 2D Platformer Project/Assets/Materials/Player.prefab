@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6791641561201080825}
   m_Layer: 3
   m_Name: Ground check
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 6791641561777214634}
   m_Layer: 3
   m_Name: Circle
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -272,7 +272,7 @@ GameObject:
   - component: {fileID: 6791641562188920437}
   m_Layer: 3
   m_Name: Ceiling check
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
