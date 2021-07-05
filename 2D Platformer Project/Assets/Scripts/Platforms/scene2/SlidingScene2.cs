@@ -9,9 +9,9 @@ public class SlidingScene2 : MonoBehaviour
 
     private void Update()
     {
-        if (transform.position.x > -4.5)
+        if (transform.position.x > -7)
             moveRight = false;
-        if (transform.position.x < -7)
+        if (transform.position.x < -10)
             moveRight = true;
 
         if (moveRight)

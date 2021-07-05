@@ -2,16 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Moveplat : MonoBehaviour
+public class Break1 : MonoBehaviour
 {
-    public slider4 slider;
+    public GameObject platform;
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
-            Destroy(gameObject);
-            slider.enabled = true;
+            Invoke("fall", 3f);
         }
     }
-
+    private void fall()
+    {
+        platform.GetComponent<BoxCollider2D>().enabled = false;
+    }
 }

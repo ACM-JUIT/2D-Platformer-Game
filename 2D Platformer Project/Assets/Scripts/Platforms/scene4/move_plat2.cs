@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Moveplat : MonoBehaviour
+public class move_plat2 : MonoBehaviour
 {
-    public slider4 slider;
+    public slider_v2 slider;
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Player")
@@ -13,5 +13,4 @@ public class Moveplat : MonoBehaviour
             slider.enabled = true;
         }
     }
-
 }

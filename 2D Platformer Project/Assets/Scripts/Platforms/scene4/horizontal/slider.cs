@@ -9,9 +9,9 @@ public class slider : MonoBehaviour
 
     private void Update()
     {
-        if (transform.position.x > 2.5)
+        if (transform.position.x > 5)
             moveRight = false;
-        if (transform.position.x < -2)
+        if (transform.position.x < -0.65)
             moveRight = true;
 
         if (moveRight)

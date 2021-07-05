@@ -4,19 +4,19 @@ using UnityEngine;
 
 public class slider_v : MonoBehaviour
 {
-    float movespeed = 0.5f;
+    float movespeed = 1.5f;
     bool moveUp = true;
 
     private void Update()
     {
-        if (transform.position.y > 2.1)
+        if (transform.position.y > 3.3)
             moveUp = false;
-        if (transform.position.y < 0)
+        if (transform.position.y < -1)
             moveUp = true;
 
         if (moveUp)
-            transform.position = new Vector2(-8.3f, transform.position.y + movespeed * Time.deltaTime);
+            transform.position = new Vector2(-10f, transform.position.y + movespeed * Time.deltaTime);
         else
-            transform.position = new Vector2(-8.3f, transform.position.y - movespeed * Time.deltaTime);
+            transform.position = new Vector2(-10f, transform.position.y - movespeed * Time.deltaTime);
     }
 }
