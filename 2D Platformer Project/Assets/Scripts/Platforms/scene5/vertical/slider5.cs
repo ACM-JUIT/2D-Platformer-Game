@@ -9,14 +9,14 @@ public class slider5 : MonoBehaviour
 
     private void Update()
     {
-        if (transform.position.y > -0.5)
+        if (transform.position.y > -0.7)
             moveUp = false;
-        if (transform.position.y < -3)
+        if (transform.position.y < -3.5)
             moveUp = true;
 
         if (moveUp)
-            transform.position = new Vector2(4.5f, transform.position.y + movespeed * Time.deltaTime);
+            transform.position = new Vector2(3.3f, transform.position.y + movespeed * Time.deltaTime);
         else
-            transform.position = new Vector2(4.5f, transform.position.y - movespeed * Time.deltaTime);
+            transform.position = new Vector2(3.3f, transform.position.y - movespeed * Time.deltaTime);
     }
 }
