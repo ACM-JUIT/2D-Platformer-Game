@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class slider1 : MonoBehaviour
 {
-    float movespeed = 2.7f;
+    float movespeed = 2.68f;
     bool moveRight = true;
 
     private void Update()
@@ -15,7 +15,7 @@ public class slider1 : MonoBehaviour
             moveRight = true;
 
         if (moveRight)
-            transform.position = new Vector2(transform.position.x + movespeed * Time.deltaTime, -1.8f); //-2 is transform.position.y
+            transform.position = new Vector2(transform.position.x + movespeed * Time.deltaTime, -1.8f); 
 
         else
             transform.position = new Vector2(transform.position.x - movespeed * Time.deltaTime, -1.8f);

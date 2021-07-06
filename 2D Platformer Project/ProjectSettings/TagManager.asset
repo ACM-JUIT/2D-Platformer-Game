@@ -7,6 +7,8 @@ TagManager:
   - Backgroung
   - Obstacle
   - next
+  - Enemy
+  - fallingObs
   layers:
   - Default
   - TransparentFX

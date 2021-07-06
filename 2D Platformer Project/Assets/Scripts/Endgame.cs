@@ -10,12 +10,16 @@ public class Endgame : MonoBehaviour
     {
         if (player.transform.position.y <= -5.6)
         {
-            Debug.Log("game over");
+            manager.Restart();
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "Obstacle")
+        {
+            manager.Restart();
+        }
+        if (collision.gameObject.tag == "Enemy")
         {
             manager.Restart();
         }

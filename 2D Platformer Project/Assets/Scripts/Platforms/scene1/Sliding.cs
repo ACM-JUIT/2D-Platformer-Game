@@ -4,20 +4,19 @@ using UnityEngine;
 
 public class Sliding : MonoBehaviour
 {
-    float dirX, movespeed = 2f;
-    bool moveRight = true;
+    float movespeed = 2f;
+    bool moveup = true;
 
     private void Update()
     {
-        if (transform.position.x > 5.5)
-            moveRight = false;
-        if (transform.position.x < 1)
-            moveRight = true;
+        if (transform.position.y > 1)
+            moveup = false;
+        if (transform.position.y < -2)
+            moveup = true;
 
-        if (moveRight)
-           transform.position = new Vector2(transform.position.x + movespeed * Time.deltaTime, -1.8f); //-2 is transform.position.y
-
+        if (moveup)
+           transform.position = new Vector2(6.5f,transform.position.y + movespeed * Time.deltaTime); 
         else
-            transform.position = new Vector2(transform.position.x - movespeed * Time.deltaTime, -1.8f);
+            transform.position = new Vector2(6.5f,transform.position.y - movespeed * Time.deltaTime);
     }
 }
