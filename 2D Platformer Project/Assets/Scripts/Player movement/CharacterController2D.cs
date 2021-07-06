@@ -151,7 +151,7 @@ public class CharacterController2D : MonoBehaviour
 	}
 	private void OnCollisionEnter2D(Collision2D collision)
 	{
-		if (collision.gameObject.name == "sliding_plat")
+		if (collision.gameObject.tag == "sliding_plat")
 		{
 			this.transform.parent = collision.transform;
 
@@ -164,7 +164,7 @@ public class CharacterController2D : MonoBehaviour
 	}
 	private void OnCollisionExit2D(Collision2D collision)
 	{
-		if (collision.gameObject.name == "sliding_plat")
+		if (collision.gameObject.tag == "sliding_plat")
 		{
 			this.transform.parent = player.transform;
 		}

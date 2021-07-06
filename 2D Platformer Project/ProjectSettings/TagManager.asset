@@ -9,6 +9,7 @@ TagManager:
   - next
   - Enemy
   - fallingObs
+  - sliding_plat
   layers:
   - Default
   - TransparentFX
