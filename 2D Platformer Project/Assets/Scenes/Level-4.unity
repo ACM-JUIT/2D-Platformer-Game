@@ -1350,7 +1350,7 @@ GameObject:
   - component: {fileID: 660213709}
   m_Layer: 0
   m_Name: sliding_plat
-  m_TagString: Untagged
+  m_TagString: sliding_plat
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1378,9 +1378,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 660213707}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 20e5c440f82766344a8b2cdaa8a3cf1d, type: 3}
+  m_Script: {fileID: 11500000, guid: b1ccd0f0aad85944c9b9af6e0246cf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movespeed: 1.5
+  y_up: 5.8
+  y_down: 1
+  x: 11.6
 --- !u!61 &660213710
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1992,7 +1996,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6.373725
+  orthographic size: 6.309974
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -2048,7 +2052,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 957098845}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.119, y: 5.48, z: 2.308981}
+  m_LocalPosition: {x: 13.119, y: 5.33, z: 2.308981}
   m_LocalScale: {x: 1.5999999, y: 1.5999999, z: 1}
   m_Children: []
   m_Father: {fileID: 1773344571}
@@ -3216,7 +3220,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1474894709}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 14.619, y: 7.1, z: 2.308981}
+  m_LocalPosition: {x: 14.619, y: 6.95, z: 2.308981}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 883411493}
@@ -3799,7 +3803,7 @@ GameObject:
   - component: {fileID: 1704923149}
   m_Layer: 0
   m_Name: sliding_plat
-  m_TagString: Untagged
+  m_TagString: sliding_plat
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3904,9 +3908,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1704923145}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f7ab70d0e4fa954183bcff93fc197b5, type: 3}
+  m_Script: {fileID: 11500000, guid: 7e461b32dd723054fb187fee27b364e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movespeed: 1.3
+  x_right: 5
+  x_left: -0.65
+  y: -2
 --- !u!1 &1726803372
 GameObject:
   m_ObjectHideFlags: 0
@@ -5110,7 +5118,7 @@ GameObject:
   - component: {fileID: 2002839612}
   m_Layer: 0
   m_Name: sliding_plat
-  m_TagString: Untagged
+  m_TagString: sliding_plat
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5215,9 +5223,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 2002839608}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c2ede9aa4001cbb41b23fe5dc564ba1c, type: 3}
+  m_Script: {fileID: 11500000, guid: b1ccd0f0aad85944c9b9af6e0246cf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movespeed: 1.5
+  y_up: 3.3
+  y_down: -1
+  x: -10
 --- !u!1 &2012020307
 GameObject:
   m_ObjectHideFlags: 0
