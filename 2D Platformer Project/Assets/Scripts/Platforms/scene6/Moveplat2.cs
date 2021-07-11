@@ -13,6 +13,8 @@ public class Moveplat2 : MonoBehaviour
             Destroy(gameObject);
             slider.enabled = true;
             plat.GetComponent<PolygonCollider2D>().enabled = true;
+            plat.GetComponent<SpriteRenderer>().enabled = true;
         }
     }
+    
 }
