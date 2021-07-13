@@ -6281,6 +6281,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3444647009896108908, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3444647009896108908, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6481553490381135805, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2518647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6481553490381135805, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.24272734
+      objectReference: {fileID: 0}
+    - target: {fileID: 6481553490381135805, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.4357
+      objectReference: {fileID: 0}
+    - target: {fileID: 6481553490381135805, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.47
+      objectReference: {fileID: 0}
     - target: {fileID: 6791641561201080583, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
       propertyPath: m_TagString
       value: Player
@@ -6345,6 +6369,10 @@ PrefabInstance:
       propertyPath: manager
       value: 
       objectReference: {fileID: 326596145}
+    - target: {fileID: 6791641561777214635, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6791641561777214645, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
       propertyPath: m_TagString
       value: Player

@@ -5888,8 +5888,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1340943514}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 18.48, y: -4.16, z: 0.93541425}
-  m_LocalScale: {x: 1.7, y: 1.6, z: 1}
+  m_LocalPosition: {x: 18.2722, y: -4.16, z: 0.93541425}
+  m_LocalScale: {x: 2.1156502, y: 1.6, z: 1}
   m_Children: []
   m_Father: {fileID: 79839675}
   m_RootOrder: 0
@@ -6144,6 +6144,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3444647009896108908, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6481553490381135805, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.21879116
+      objectReference: {fileID: 0}
+    - target: {fileID: 6481553490381135805, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.21232386
+      objectReference: {fileID: 0}
+    - target: {fileID: 6481553490381135805, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1992
+      objectReference: {fileID: 0}
+    - target: {fileID: 6481553490381135805, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1592
+      objectReference: {fileID: 0}
     - target: {fileID: 6791641561201080583, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
       propertyPath: m_TagString
       value: Player
@@ -6204,6 +6224,10 @@ PrefabInstance:
       propertyPath: manager
       value: 
       objectReference: {fileID: 1628491363}
+    - target: {fileID: 6791641561777214635, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6791641561777214644, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 46.94
