@@ -5,9 +5,14 @@ using UnityEngine;
 public class CamMove : MonoBehaviour
 {
     public GameObject player;
-
-    private void Update()
+    public Vector3 offset;
+    public Camera cam;
+    private void Start()
     {
-        transform.position = new Vector2(player.transform.position.x + 4f, player.transform.position.y + 1.1f);
+        cam = GetComponent<Camera>();
+    }
+    private void FixedUpdate()
+    {
+        cam.transform.position = player.transform.position + offset;
     }
 }
