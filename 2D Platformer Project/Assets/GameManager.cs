@@ -10,8 +10,7 @@ public class GameManager : MonoBehaviour
 
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
-    
-
+    public GameObject player;
     public void Resume()
     {
         pauseMenuUI.SetActive(false);
@@ -27,6 +26,7 @@ public class GameManager : MonoBehaviour
     }
     public void Restart()
     {
+       
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 0);
     }
 

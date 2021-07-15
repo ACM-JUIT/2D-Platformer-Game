@@ -167,7 +167,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 6406758834685577873}
-  manager: {fileID: 4659687571704750997, guid: 7c7d17f334a887b40a22c7b02be24e9b, type: 3}
+  Respawnpoint: {x: 0, y: 0, z: 0}
+  manager: {fileID: 0}
 --- !u!61 &1921825932568636223
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -280,6 +281,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6791641561755400288}
+  - component: {fileID: 7023249324976875528}
   m_Layer: 3
   m_Name: Player
   m_TagString: Untagged
@@ -304,6 +306,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7023249324976875528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6791641561755400289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9973bc38538c2514283709817df8573c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 6406758834685577873}
+  Respawnpoint: {x: 0, y: 0, z: 0}
+  manager: {fileID: 0}
 --- !u!1 &6791641562188920435
 GameObject:
   m_ObjectHideFlags: 0

@@ -9,7 +9,7 @@ public class move_plat1 : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            Destroy(gameObject);
+            this.GetComponent<SpriteRenderer>().flipX = false;
             slider.enabled = true;
         }
     }

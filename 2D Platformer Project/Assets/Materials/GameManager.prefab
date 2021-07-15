@@ -43,3 +43,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc319d6d0820a8440ad50612f8695269, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pauseMenuUI: {fileID: 6017968416655377846, guid: e2c331240e111b94d8cafc723f5d8346, type: 3}
+  player: {fileID: 6791641561755400289, guid: cbd68012715c7564a8ace346e22a1c1f, type: 3}

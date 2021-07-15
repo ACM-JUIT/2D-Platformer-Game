@@ -5,20 +5,44 @@ using UnityEngine;
 public class Endgame : MonoBehaviour
 {
     public GameObject player;
+    
     public GameManager manager;
+
+    public Vector3 Respawnpoint;
+    private void Start()
+    {
+        Respawnpoint = player.transform.position;
+    }
+    /*Endgame()
+    {
+        Respawnpoint = player.transform.position;
+    }*/
+
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.gameObject.tag == "CheckPoint")
+        {
+           Respawnpoint = col.transform.position;
+
+        }
+    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Obstacle")
+        
+        if (collision.gameObject.tag == "Obstacle")
         {
-            manager.Restart();
+            
+            transform.position = Respawnpoint;
         }
         if (collision.gameObject.tag == "endgame")
         {
-            manager.Restart();
+            
+            transform.position = Respawnpoint;
         }
         if (collision.gameObject.tag == "Enemy")
         {
-            manager.Restart();
+           
+            transform.position = Respawnpoint;
         }
     }
 }

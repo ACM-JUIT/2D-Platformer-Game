@@ -10,7 +10,7 @@ public class Moveplat3 : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            Destroy(gameObject);
+            this.GetComponent<SpriteRenderer>().flipX = true;
             slider.enabled = true;
             plat.GetComponent<PolygonCollider2D>().enabled = true;
             plat.GetComponent<SpriteRenderer>().enabled = true;
