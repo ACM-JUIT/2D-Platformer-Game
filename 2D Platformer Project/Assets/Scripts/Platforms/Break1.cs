@@ -10,10 +10,17 @@ public class Break1 : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             Invoke("fall", 3f);
+            Invoke("reoccur", 10f);
         }
     }
     private void fall()
     {
         platform.GetComponent<BoxCollider2D>().enabled = false;
+        platform.GetComponent<SpriteRenderer>().enabled = false;
+    }
+    private void reoccur()
+    {
+        platform.GetComponent<BoxCollider2D>().enabled = true;
+        platform.GetComponent<SpriteRenderer>().enabled = true;
     }
 }

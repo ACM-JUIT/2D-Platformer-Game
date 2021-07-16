@@ -10,6 +10,8 @@ TagManager:
   - Enemy
   - fallingObs
   - sliding_plat
+  - endgame
+  - CheckPoint
   layers:
   - Default
   - TransparentFX
